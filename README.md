@@ -8,7 +8,7 @@
 
 #### - :clipboard: Tenho experiência de 3 anos em rotinas administrativas nos núcleos escolares NIEMS (Núcleo de Estudos Interdisciplinares sobre Minorias Sociais) e NAV (Núcleo Ambiental do Vieira), tais como atendimento a alunos e colaboradores, gestão de material, voluntariado, realizações de projetos acadêmicos, entre outros.
 
-#### - :livro::videogame: Hobbies: ler diversos livros de diversas categorias e jogar The Sims.
+#### - :book::video_game: Hobbies: ler vários livros de diversas categorias e jogar The Sims.
 
 #### - :email: Como chegar até mim: maria.a.a.machado2@gmail.com 
 

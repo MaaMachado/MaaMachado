@@ -1,4 +1,4 @@
-### 👋 OLá, Eu sou 𝐌𝐚𝐫𝐢𝐚 𝐀𝐥𝐢𝐜𝐞 𝐌𝐚𝐜𝐡𝐚𝐝𝐨. 
+### 👋 Olá, Eu sou 𝐌𝐚𝐫𝐢𝐚 𝐀𝐥𝐢𝐜𝐞 𝐌𝐚𝐜𝐡𝐚𝐝𝐨. 
 
 #### - :computer::mortar_board: Cursando o quinto semestre da graduação de Análise e Desenvolvimento de Sistemas (Unifavip Wyden) e também a graduação de Computação (UFBA). 
 

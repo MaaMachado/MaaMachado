@@ -10,5 +10,5 @@
 
 #### - :book::video_game: Hobbies: ler e jogar The Sims.
 
-#### - :email: Como chegar até mim: maria.a.a.machado2@gmail.com 
+#### - :email: Como chegar até mim: maamachadox@gmail.com 
 

@@ -1,6 +1,6 @@
 ### 👋 Olá, Eu sou 𝐌𝐚𝐫𝐢𝐚 𝐀𝐥𝐢𝐜𝐞 𝐌𝐚𝐜𝐡𝐚𝐝𝐨. 
 
-# 💫 About Me:
+## 💫 About Me:
 👩‍💻 Sou programadora júnior Full Stack;<br>💻 Tenho preferência em Front-end e UI/UX Design;<br>🧩 Hobbies: Ler ficção e jogar 'The Sims'.
 
 ## 🎓 Completed courses:

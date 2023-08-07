@@ -4,7 +4,7 @@
 👩‍💻 Sou programadora júnior Full Stack;<br>💻 Tenho preferência em Front-end e UI/UX Design;<br>🧩 Hobbies: Ler ficção e jogar 'The Sims'.
 
 ## 🎓 Completed courses:
-👩‍🎓 Graduada em Análise e Desenvolvimento de Sistemas (Unifavip Wyden) em 2023;<br>💼 Cursando o terceiro semestre da graduação de Computação pela UFBA;<br>📚 Finalizando o curso técnico em Desenvolvimento de Sistemas;<br>Básico no Pacote Office (Excel, PowerPoint e Word);<br>Programador Full Stack (240 horas);<br>Inglês Básico 1; <br>Linguagem PHP (40 horas);<br>E vários outros cursos nas áreas comercial, design, marketing e informática (Total de horas cursadas: 520).
+👩‍🎓 Graduada em Análise e Desenvolvimento de Sistemas (Unifavip Wyden) em 2023;<br>💼 Cursando o terceiro semestre da graduação de Computação pela UFBA;<br>📚 Finalizando o curso técnico em Desenvolvimento de Sistemas;<br>Básico no Pacote Office (Excel, PowerPoint e Word);<br>Programador Full Stack (240 horas);<br>Inglês Básico 1; <br>Linguagem PHP (40 horas);<br>E vários outros cursos nas áreas comercial, design, marketing e informática (Total de horas cursadas: 560).
 
 ### ⚙ Experience:
 Tenho experiência de 3 anos em rotinas administrativas nos núcleos escolares NIEMS (Núcleo de Estudos Interdisciplinares sobre Minorias Sociais) e NAV (Núcleo Ambiental do Vieira), tais como atendimento a alunos e colaboradores, gestão de material, voluntariado, realizações de projetos acadêmicos, entre outros.
